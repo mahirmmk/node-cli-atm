@@ -1,0 +1,96 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "y",
+            "balance": 140,
+            "oweTo": [],
+            "oweFrom": [
+                {
+                    "index": 1,
+                    "amount": 0
+                },
+                {
+                    "index": 2,
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "mahir",
+            "balance": 80,
+            "oweTo": [],
+            "oweFrom": [
+                {
+                    "index": 7,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "x",
+            "balance": 20,
+            "oweTo": [],
+            "oweFrom": []
+        },
+        {
+            "id": 4,
+            "name": "mahir2",
+            "balance": 0,
+            "oweTo": [],
+            "oweFrom": []
+        },
+        {
+            "id": 5,
+            "name": "alice",
+            "balance": 210,
+            "oweTo": [],
+            "oweFrom": [
+                {
+                    "index": 5,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "bob",
+            "balance": 0,
+            "oweTo": [
+                {
+                    "index": 4,
+                    "amount": 10
+                }
+            ],
+            "oweFrom": []
+        },
+        {
+            "id": 7,
+            "name": "amreen",
+            "balance": 20,
+            "oweTo": [],
+            "oweFrom": []
+        },
+        {
+            "id": 8,
+            "name": "shahzeb",
+            "balance": 0,
+            "oweTo": [
+                {
+                    "index": 1,
+                    "amount": 20
+                }
+            ],
+            "oweFrom": []
+        },
+        {
+            "id": 9,
+            "name": "mamnoon",
+            "balance": 1400,
+            "oweTo": [],
+            "oweFrom": []
+        }
+    ]
+}
